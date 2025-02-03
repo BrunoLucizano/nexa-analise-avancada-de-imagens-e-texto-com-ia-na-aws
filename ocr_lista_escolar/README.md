@@ -42,3 +42,6 @@ ocr_lista_escolar.py: Script principal que detecta e exibe o texto da imagem.
 images/: Pasta onde a imagem a ser processada deve estar.
 
 requirements.txt: Arquivo com as dependências do projeto.
+
+## Print da funcionalidade aplicada
+![Print da tela](C:\Users\Bruno\Documents\Curso_ebac\nexa-analise-avancada-de-imagens-e-texto-com-ia-na-aws\ocr_lista_escolar\images\screenshot.png)
